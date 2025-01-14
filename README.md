@@ -11,10 +11,13 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Josh | Facebook" width="22px" src="https://github.com/user-attachments/assets/c828388f-998d-47fa-a631-de816cabfcf9" />][facebook] 
 
-[twitter]: https://twitter.com/
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/0d934f6e-4bed-4a3b-8a6a-7abecae16faa" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://github.com/user-attachments/assets/3229cb87-507e-4a20-b725-05b71588e3b0" />][instagram]
+
+
+
+[facebook]: https://www.facebook.com/share/1BCfDoKzML/?mibextid=wwXIfr
 [instagram]: https://www.instagram.com/timhall1995
-[linkedin]: https://linkedin.com/in/Jane
+[linkedin]: https://www.linkedin.com/in/tim-hall-abb175347/
